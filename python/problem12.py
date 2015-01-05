@@ -41,7 +41,7 @@ def triangles():
 
 
 def primes():
-    """Generate the primes in order to the given limit.
+    """Generate the primes in order.
 
     Cache all generated primes to speed up further generations.
     """
